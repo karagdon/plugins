@@ -2,8 +2,8 @@
 // @name         Random Racial Justice and Equality bundle item
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Get random games from the bundle!
+// @author       karagdon
 // @match        https://itch.io/*
 // @grant        none
 // ==/UserScript==
